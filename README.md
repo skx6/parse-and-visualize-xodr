@@ -15,6 +15,7 @@ conda create -n opendrive python=3.8
 conda activate opendrive
 pip install lxml>=5.1.0
 pip install matplotlib
+pip install https://github.com/stefan-urban/pyeulerspiral/archive/master.zip
 ```
 
 # Parameters and Run
